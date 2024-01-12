@@ -23,3 +23,5 @@ endif
 
 set termguicolors
 colorscheme wildcharm
+set background=dark
+highlight Normal guibg=NONE ctermbg=NONE
